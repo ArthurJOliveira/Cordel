@@ -9,12 +9,12 @@ body{
 
 #titulo{
     background-color: black;
-    height: 275px;
+    height: 55vh;
     font-family: "Passion One", sans-serif;
 }
 
 #titulo>h1{
-    padding-top: 50px;
+    padding-top: 20vh;
     color: white;
     text-align: center;
     font-size: 10vw;
@@ -92,12 +92,14 @@ main{
 
 footer{
     background-color: black;
-    height: 30px;
     color: white;
     text-align: center;
-    margin-top: 4px;
-    margin-bottom: 0px;
-    font-size: 1.5vw;
+    font-size: 2.5vw;
+    margin: 0px;
+}
+
+footer>p{
+    margin: 0px;
 }
 
 footer>p>a{
